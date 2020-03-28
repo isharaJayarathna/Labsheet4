@@ -7,7 +7,7 @@
     tools:context=".Main2Activity">
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/name1"
         android:layout_width="327dp"
         android:layout_height="41dp"
         android:layout_marginStart="8dp"
@@ -27,7 +27,7 @@
         app:layout_constraintVertical_bias="0.017" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/email"
         android:layout_width="327dp"
         android:layout_height="41dp"
         android:layout_marginStart="8dp"
@@ -47,7 +47,7 @@
         app:layout_constraintVertical_bias="0.123" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/telephone"
         android:layout_width="327dp"
         android:layout_height="41dp"
         android:layout_marginStart="8dp"
@@ -67,7 +67,7 @@
         app:layout_constraintVertical_bias="0.262" />
 
     <EditText
-        android:id="@+id/editText5"
+        android:id="@+id/password"
         android:layout_width="327dp"
         android:layout_height="41dp"
         android:layout_marginStart="8dp"
@@ -87,7 +87,7 @@
         app:layout_constraintVertical_bias="0.383" />
 
     <EditText
-        android:id="@+id/editText6"
+        android:id="@+id/re_password"
         android:layout_width="327dp"
         android:layout_height="41dp"
         android:layout_marginStart="8dp"
@@ -120,7 +120,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.435"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText6"
+        app:layout_constraintTop_toBottomOf="@+id/re_password"
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
@@ -138,6 +138,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.435"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText6"
+        app:layout_constraintTop_toBottomOf="@+id/re_password"
         app:layout_constraintVertical_bias="0.517" />
 </android.support.constraint.ConstraintLayout>

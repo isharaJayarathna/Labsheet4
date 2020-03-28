@@ -1,7 +1,9 @@
 package com.aie.lab4;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.aie.lab4.R;
 
 public class Main2Activity extends AppCompatActivity {
 

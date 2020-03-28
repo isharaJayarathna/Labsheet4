@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Lab4</string>
+    <string name="name">Name</string>
+    <string name="button">SIGN UP</string>
+    <string name="name1">Name</string>
+    <string name="email">Email</string>
+    <string name="telephone">Telephone</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re_type Password</string>
+
+    <string name="channel_description">This is redicect to registration</string>
+    <string name="channel_name">Notification</string>
+    <string name="hint_Main">hint_Main</string>
+    <string name="btn_Main">btn_Main</string>
 </resources>
